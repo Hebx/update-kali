@@ -41,7 +41,11 @@ if 'Kali' in release:
                                 'github.com/hakluke/hakrawler',
                                 'github.com/hahwul/dalfox',
                                 'github.com/ffuf/ffuf',
-                                ]
+                                 'github.com/theblackturtle/wildcheck',
+                                 'github.com/tomnomnom/httprobe',
+                                 'github.com/hakluke/hakrawler',
+                                 'github.com/tomnomnom/qsreplace',
+                                 'github.com/hahwul/dalfox']
 
     # These git repositories will be synced to the 'external repo' directory
     external_tools_directory = '/opt'
