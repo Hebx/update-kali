@@ -113,6 +113,7 @@ if 'Ubuntu' in release:
                                 'https://github.com/Cillian-Collins/dirscraper',
                                 'https://github.com/maurosoria/dirsearch',
                                 'https://github.com/darkoperator/dnsrecon'
+                                'https://github.com/codingo/microsubs'
                                 ]
 
     # These git repositories will be synced to the 'personal repo' directory. I use my home directory.
